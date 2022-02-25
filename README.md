@@ -9,7 +9,7 @@
       introduciendome al lenguaje TypeScript.
 
 - 👯  Estoy trabajando en proyectos tanto personales como grupales que se encuentran en desarrollo:
-Una Dog App que se alimenta de una api externa y utilicelas tecnologias Express, Postgres para el backed y base de datos, React y Redux para el frontend. Te dejo el link para que lo visites ;): https://pi-dogs-main-vercel.app 
+Una Dog App que se alimenta de una api externa y utilicelas tecnologias Express, Postgres para el backed y base de datos, React y Redux para el frontend. Te dejo el link para que lo visites ;): https://pi-dogs-main.vercel.app 
 Un Ecommerce en colaboracion con varios colegas que incluye las mismas tecnologias, con autenticacion con cuenta de google, poder registrarse en la pagina como usuario para poder hacer compras y pagar con tarjeta de credito y una interfaz para el administrador donde lleva registro de todas las acciones realizadas en la pagina.
 
 - 🤔 Ademas soy un estudiante avanzado en Psicologia con cursos en gestion de recursos humanos y psicologia laboral.
